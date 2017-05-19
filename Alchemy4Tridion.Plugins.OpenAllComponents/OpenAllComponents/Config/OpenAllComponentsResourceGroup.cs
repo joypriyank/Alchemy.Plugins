@@ -7,6 +7,7 @@ namespace OpenAllComponents.Config
         public OpenAllComponentsResourceGroup()
         {
             AddFile("OpenAllComponentsCommand.js");
+            AddFile("OpenAllComponents.css");
             AddFile<OpenAllComponentsCommandSet>();
         }
     }

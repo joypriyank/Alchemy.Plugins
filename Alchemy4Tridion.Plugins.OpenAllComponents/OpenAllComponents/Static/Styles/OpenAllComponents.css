@@ -1,0 +1,7 @@
+﻿.contextmenu #cm_openallcomponents > .image {
+    background-image: url('${ImgUrl}open-all.png');
+}
+#RibbonToolbarOpenAllComponents.button .image
+{
+    background-image: url('${ImgUrl}open-all-32px.png');
+}

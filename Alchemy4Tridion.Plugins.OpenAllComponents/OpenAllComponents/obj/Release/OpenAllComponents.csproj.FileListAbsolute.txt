@@ -1,0 +1,13 @@
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\OpenAllComponents.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\OpenAllComponents.pdb
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\Alchemy4Tridion.Plugins.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\Newtonsoft.Json.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\System.Net.Http.Formatting.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\System.Web.Http.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\Tridion.ContentManager.CoreService.Client.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\Alchemy4Tridion.Plugins.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\Newtonsoft.Json.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\System.Net.Http.Formatting.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Release\System.Web.Http.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Release\OpenAllComponents.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Release\OpenAllComponents.pdb

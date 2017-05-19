@@ -38,7 +38,8 @@
     <AlchemyRemoveBuildFiles>NonProjectAssembly</AlchemyRemoveBuildFiles>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Image\OpenAll.ico</ApplicationIcon>
+    <ApplicationIcon>
+    </ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Alchemy4Tridion.Plugins, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
@@ -74,6 +75,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config\OpenAllComponentsExtension.cs" />
     <Compile Include="Config\OpenAllComponentsResourceGroup.cs" />
     <Compile Include="Config\OpenAllComponentsCommandSet.cs" />
     <Compile Include="Config\OpenAllComponentsContextMenu.cs" />
@@ -84,8 +86,10 @@
     <Content Include="a4t.xml">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="Image\OpenAll.ico" />
+    <Content Include="Static\Image\open-all-32px.png" />
+    <Content Include="Static\Image\open-all.png" />
     <Content Include="Static\Scripts\OpenAllComponentsCommand.js" />
+    <Content Include="Static\Styles\OpenAllComponents.css" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

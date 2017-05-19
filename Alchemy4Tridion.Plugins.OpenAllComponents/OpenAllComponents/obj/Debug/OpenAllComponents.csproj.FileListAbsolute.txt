@@ -12,3 +12,17 @@ c:\users\admin\documents\visual studio 2015\Projects\Alchemy4Tridion.Plugins.Ope
 c:\users\admin\documents\visual studio 2015\Projects\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.dll
 c:\users\admin\documents\visual studio 2015\Projects\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.pdb
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.csprojResolveAssemblyReference.cache
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\OpenAllComponents.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\OpenAllComponents.pdb
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\Alchemy4Tridion.Plugins.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\Newtonsoft.Json.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\System.Net.Http.Formatting.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\System.Web.Http.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\Tridion.ContentManager.CoreService.Client.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\Alchemy4Tridion.Plugins.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\Newtonsoft.Json.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\System.Net.Http.Formatting.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\bin\Debug\System.Web.Http.xml
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.dll
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.pdb
+C:\Project\Alchemy.Plugins\Alchemy4Tridion.Plugins.OpenAllComponents\OpenAllComponents\obj\Debug\OpenAllComponents.csprojResolveAssemblyReference.cache
