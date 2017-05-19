@@ -37,6 +37,9 @@
     <AlchemyUploadDialog>true</AlchemyUploadDialog>
     <AlchemyRemoveBuildFiles>NonProjectAssembly</AlchemyRemoveBuildFiles>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Image\OpenAll.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Alchemy4Tridion.Plugins, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Alchemy4Tridion.Plugin.1.0.0-beta8-2\lib\net40\Alchemy4Tridion.Plugins.dll</HintPath>
@@ -81,6 +84,7 @@
     <Content Include="a4t.xml">
       <SubType>Designer</SubType>
     </Content>
+    <Content Include="Image\OpenAll.ico" />
     <Content Include="Static\Scripts\OpenAllComponentsCommand.js" />
   </ItemGroup>
   <ItemGroup>
