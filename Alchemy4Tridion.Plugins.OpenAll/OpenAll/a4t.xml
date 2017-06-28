@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<plugin xmlns:c="https://www.alchemywebstore.com/configuration/definitions" xmlns="http://www.alchemywebstore.com/">
+  <name>OpenAll</name>
+  <description><![CDATA[This Plugin adds a Ribbon Tool Bar 'Open All' and Context Menu 'Open All' to the dashboard if user is selected multiple components.]]></description>
+  <references />
+  <frameworkVersion>0.8.2.0</frameworkVersion>
+</plugin>
